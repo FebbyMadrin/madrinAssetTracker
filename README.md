@@ -24,23 +24,33 @@
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
 
-![]()
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/tag.gif)
+
+------
 
 #### Wi-Fi Module as a Backup Solution
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Wi-Fi%20Module.png)
 
+------
+
 #### Anchor Coverage Mapping
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Anchor%20Coverage%20Mapping.png)
+
+------
 
 #### FallDown Detection
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
 
+------
+
 #### Help Button
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+
+------
 
 #### Central Command
 
