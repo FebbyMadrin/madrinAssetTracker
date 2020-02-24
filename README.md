@@ -1,5 +1,11 @@
 # Madrin Asset Tracker
 
+| Front View                                                   | Back View                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/topview%20tracker.PNG) | ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/backview%20tracker.PNG) |
+
+
+
 #### Device Parameters:
 
 - Able to detect the location of the tagged asset precisely; Accuracy  : 30cm
