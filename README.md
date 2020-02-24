@@ -18,8 +18,28 @@ Device Parameters:
   - Able to map the Anchor coverage
 - Battery lifetime up to 1-2 years
 
+------
 
+- Tag Localization
 
+  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
 
+- Wi-Fi Module as a Backup Solution
 
-![image-20200224110910207](C:\Users\febby\AppData\Roaming\Typora\typora-user-images\image-20200224110910207.png)
+  
+
+- Anchor Coverage Mapping
+
+  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Anchor%20Coverage%20Mapping.png)
+
+- FallDown Detection
+
+  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+
+- Help Button
+
+  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+
+- Central Command
+
+  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Central%20Command.png)
