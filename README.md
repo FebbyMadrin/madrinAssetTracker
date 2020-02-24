@@ -24,6 +24,8 @@
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
 
+![]()
+
 #### Wi-Fi Module as a Backup Solution
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Wi-Fi%20Module.png)
