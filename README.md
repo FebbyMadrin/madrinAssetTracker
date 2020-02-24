@@ -1,6 +1,6 @@
 # Madrin Asset Tracker
 
-Device Parameters:
+#### Device Parameters:
 
 - Able to detect the location of the tagged asset precisely; Accuracy  : 30cm
 - Visualize data to the website Apps Real-Time
@@ -20,26 +20,26 @@ Device Parameters:
 
 ------
 
-- Tag Localization
+#### Tag Localization
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
 
-- Wi-Fi Module as a Backup Solution
+#### Wi-Fi Module as a Backup Solution
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Wi-Fi%20Module.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Wi-Fi%20Module.png)
 
-- Anchor Coverage Mapping
+#### Anchor Coverage Mapping
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Anchor%20Coverage%20Mapping.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Anchor%20Coverage%20Mapping.png)
 
-- FallDown Detection
+#### FallDown Detection
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
 
-- Help Button
+#### Help Button
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
 
-- Central Command
+#### Central Command
 
-  ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Central%20Command.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Central%20Command.png)
