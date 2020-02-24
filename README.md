@@ -24,8 +24,6 @@
 
 ![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/TagLocalitzation.png)
 
-![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/tag.gif)
-
 ------
 
 #### Wi-Fi Module as a Backup Solution
@@ -42,7 +40,7 @@
 
 #### FallDown Detection
 
-![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/Help%20Button.png)
+![](https://github.com/FebbyMadrin/madrinAssetTracker/blob/master/img/readme/FallDown%20Detection.png)
 
 ------
 
